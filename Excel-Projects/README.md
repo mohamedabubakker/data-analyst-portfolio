@@ -1,4 +1,6 @@
-# Excel Projects
-This folder contains all Excel-based data analysis and dashboards for my portfolio.
+### Excel Project
+- Sales Performance Dashboard  
+  Tools: Excel  
+  Description: Built an interactive dashboard using pivot tables and charts to analyze sales trends.
 
 
